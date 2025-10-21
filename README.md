@@ -16,4 +16,4 @@ Assembly language is used so that the compiler understands the specified instruc
 * it gives us full control over what tasks our computer uses for processing instructions
 * it enables us to understand the processor's working with memory
 * to optimise the processing time
-* enables one to write code and learn how to access registers and retrive the memory addresses of pointers and values in memory
+* enables one to write code and learn how to access registers and retrieve the memory addresses of pointers and values in memory
