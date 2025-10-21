@@ -8,7 +8,7 @@ in Assembly hence it is also known as a symbolic language . For example, ADD ins
 
 ### How does it work :-
 
-*Assembly language is used so that the compiler understands the specified instructions and via an assembler converts our assembly code into machine code executable , assembly language also depends on the type of system architecture.*
+Assembly language is used so that the compiler understands the specified instructions and via an assembler converts our assembly code into machine code executable , assembly language also depends on the type of system architecture.
 
 ### Why we study Assembly :-
 
